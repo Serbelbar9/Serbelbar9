@@ -21,9 +21,8 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 - Inteligencia Artificial y soluciones en la nube  
 
 ## 📈 Estadísticas
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Serbelbar9&theme=dark&locale=es)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serbelbar9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serbelbar9&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
