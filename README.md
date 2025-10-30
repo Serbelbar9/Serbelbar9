@@ -28,9 +28,7 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 
 ## 🌐 Conecta conmigo
 
-<a href="https://es.linkedin.com/in/sergiobelv%C3%ADsb" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Belvís%20Barba-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-</a>
+[![LinkedIn](LinkedIn.png)](www.linkedin.com/in/sergiobelvísb)
 
 
 ---
