@@ -1,4 +1,4 @@
-<img src="Imagen%20Principal.png" alt="Presentacion" width="920" style="border-radius:15px;">
+<img src="Imagen%20Principal.png" alt="Presentacion" width="920">
 
 
 # Hola, soy Sergio Belvís Barba 👋
