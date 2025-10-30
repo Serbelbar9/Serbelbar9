@@ -1,3 +1,6 @@
+<img src="Imagen%20Principal.png" alt="Presentacion" width="920">
+
+
 # Hola, soy Sergio Belvís Barba 👋
 
 Desarrollador en formación con 19 años y muchas ganas de seguir creciendo.  
