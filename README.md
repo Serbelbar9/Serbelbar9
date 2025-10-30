@@ -28,7 +28,7 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 
 ## 🌐 Conecta conmigo
 
-[![LinkedIn](LinkedIn Tarjeta.png)](https://www.linkedin.com/in/sergiobelvísb)
+[![LinkedIn](LinkedIn%20Tarjeta.png)](https://www.linkedin.com/in/sergiobelvísb)
 
 
 ---
