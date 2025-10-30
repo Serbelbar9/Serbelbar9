@@ -1,3 +1,6 @@
+<img src="Imagen%20Principal.png" alt="Presentacion" width="920">
+
+---
 
 # Hola, soy Sergio Belvís Barba 👋
 
