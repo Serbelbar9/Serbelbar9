@@ -22,8 +22,17 @@ Estudiante de **2º de Desarrollo de Aplicaciones Web**, apasionado por el desar
 
 ## 📈 Estadísticas
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serbelbar9&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 Conecta conmigo
+
+<a href="https://es.linkedin.com/in/sergiobelv%C3%ADsb" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sergio%20Belvís%20Barba-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+
 ---
 
 ¡Siempre aprendiendo y creando cosas nuevas! 🚀
